@@ -1,0 +1,2 @@
+﻿Kaggle competition: Home Credit Default Risk. https://www.kaggle.com/c/home-credit-default-risk. The training set was created by merging several datasets. Xgboost model was used to train the data and Bayesian optimization algorithm was applied to select the optimum parameters. The accuracy of this model was evaluated by the Area Under the Receiver Operating Characteristic Curve (ROC_AUC) metric.  
+A value of 0.770947 was reported. 
